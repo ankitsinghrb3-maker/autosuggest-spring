@@ -2,3 +2,18 @@ h1 {
     color: red;
     text-align: center;
 }   
+body {
+    background-color: black;
+}
+.navbar {
+ border-style: solid;
+ border-color: purple;
+ background-color: lightblue;
+ padding: 20px;
+ text-align: center;
+}
+.navbar a {
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
